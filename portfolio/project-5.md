@@ -1,6 +1,6 @@
 ---
 title: Nature Magazine
-subtitle: Editorial Design
+subtitle: Virtual Driving through Forest in Indonesia
 date: '2021-01-10'
 thumb_image: images/yt_thumbnail.png
 thumb_image_alt: Nature Magazine preview
