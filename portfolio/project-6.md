@@ -1,6 +1,6 @@
 ---
 title: Pemandangan desa JAWA TENGAH. Indahnya alam Indonesia
-subtitle: Brand Development
+subtitle: Beautiful HD village in Indonesia
 date: '2021-02-06'
 thumb_image: images/yt_thumb_2.png
 thumb_image_alt: Subtle preview
