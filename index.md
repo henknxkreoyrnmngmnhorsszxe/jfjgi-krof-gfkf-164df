@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "Hi \U0001F44B we are Indonesian-based"
+    title: "Hi \U0001F44B we are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
