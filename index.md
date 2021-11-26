@@ -15,7 +15,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Recent Work
-    subtitle: Explore case studies
+    subtitle: Explore case studie
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
