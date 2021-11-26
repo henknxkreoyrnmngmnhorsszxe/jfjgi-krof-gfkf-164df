@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Jalur Mudik PEKALONGAN lewat DESA TERPENCIL
 subtitle: Virtual Driving through Forest in Indonesia
 date: '2021-01-10'
 thumb_image: images/yt_thumbnail.png
