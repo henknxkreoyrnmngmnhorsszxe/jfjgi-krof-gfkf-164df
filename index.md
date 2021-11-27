@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: We are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa.
     - name: 'twitter:description'
       value: >-
         We are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa.
