@@ -38,8 +38,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        We are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa.
       keyName: property
     - name: 'twitter:card'
       value: summary
