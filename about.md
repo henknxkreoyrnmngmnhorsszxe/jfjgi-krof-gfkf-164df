@@ -94,7 +94,7 @@ sections:
     section_id: cta
     title: Become a Team Player
     content: >-
-      We are Indonesian-based Youtuber
+      We are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
