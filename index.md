@@ -34,7 +34,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: We are Indonesian-based Youtuber. We provide relax and calm driving atmosphere in Pulau Jawa.
       keyName: property
     - name: 'og:description'
       value: >-
